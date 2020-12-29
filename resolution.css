@@ -160,7 +160,7 @@ header.active::before{
 }
 
 .active .zoom-content{
-    transform: translate3d(0, 0, -15rem);
+    transform: translate3d(0, 0, -10rem);
 }
 @media screen and (max-width: 450px){
     .nav-link{
