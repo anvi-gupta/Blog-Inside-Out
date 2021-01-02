@@ -8,7 +8,7 @@
     box-sizing: border-box;
 }
 html{
-    font-family: 'Roboto',sans-serif;
+    font-family: 'Poppins',sans-serif;
     font-size: 10px;
     scroll-behavior: smooth;
 }
@@ -199,8 +199,7 @@ img{
     font-family: 'Poppins',sans-serif;
     font-size: 2rem;
     text-align: center;
-    
-}
+ }
 #ahref{
     text-decoration: none;
     font-size: 2rem;
