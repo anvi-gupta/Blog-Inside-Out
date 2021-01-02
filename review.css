@@ -328,13 +328,11 @@ fieldset, label { margin: 0; padding: 0; }
 textarea{
     font-family: 'Poppins', sans-serif;
 margin: auto;
-margin-left: 47rem;
 }
 #h12{
     font-size: 3.6rem;
     font-family: 'Playfair Display', serif;
     text-align: center;
-    margin: 10px;
 }
 input[type="submit"]{
     width: 150px;
@@ -346,5 +344,8 @@ input[type="submit"]{
     cursor: pointer;
     background-color: #1f253d;
     color: white;
-    margin-left: 575px;
+}
+
+.division{
+    text-align: center;
 }
